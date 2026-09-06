@@ -1,6 +1,6 @@
 cask "abu-sayed" do
-  version "1.2.2"
-  sha256 "a5fb95322c0e4d15add75e4768a4445827a5884a63ef6fc1bb3796cbb6561252"
+  version "1.2.3"
+  sha256 "b97b00b4e518150f0e6690ff07bd4d896a767adc9d8da31ac36ee47c98841690"
 
   url "https://github.com/asifkibria/abusayed-keyboard/releases/download/v#{version}/AbuSayed-#{version}.pkg"
   name "Abu Sayed Bangla Keyboard"
