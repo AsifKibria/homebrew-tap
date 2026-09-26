@@ -13,5 +13,5 @@ Use the full package name. Homebrew installs the tap and trusts this specific ca
 After installation, enable **আবু সাঈদ** in **System Settings → Keyboard → Text Input → Edit → + → Bangla**.
 
 - [Website and setup instructions](https://asifkibria.com/abusayed/)
-- [Signed and notarized installers](https://github.com/AsifKibria/abusayed-keyboard/releases/latest)
+- [Signed and notarized installer](https://asifkibria.com/abusayed/install/macos/)
 - [Homebrew’s tap-trust documentation](https://docs.brew.sh/Tap-Trust)

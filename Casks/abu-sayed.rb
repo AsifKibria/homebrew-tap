@@ -1,8 +1,8 @@
 cask "abu-sayed" do
-  version "1.2.12"
-  sha256 "89c80c8235ed723d035349f23d45f333578a646ba21dfd56cad0193dace97fed"
+  version "1.2.13"
+  sha256 "b1d8ca5df7dbd38320de69fbcce9e7b54f1522cf7efc94b62cb474b62dde47df"
 
-  url "https://github.com/asifkibria/abusayed-keyboard/releases/download/v#{version}/AbuSayed-#{version}.pkg"
+  url "https://asifkibria.com/abusayed/downloads/AbuSayed-#{version}.pkg"
   name "Abu Sayed Bangla Keyboard"
   desc "Privacy-first Bangla input method (Avro-style phonetic, Probhat, National)"
   homepage "https://asifkibria.com/abusayed"
