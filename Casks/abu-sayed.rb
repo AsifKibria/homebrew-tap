@@ -14,6 +14,7 @@ cask "abu-sayed" do
 
   caveats <<~EOS
     Enable the keyboard in:
-    System Settings → Keyboard → Text Input → Edit → + → Bangla → আবু সাঈদ
+    System Settings > Keyboard > Text Input > Edit > + > Bangla > Abu Sayed
+    (the entry is listed under its Bangla name)
   EOS
 end
